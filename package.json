@@ -1,0 +1,24 @@
+{
+  "name": "react-timeout-hooks",
+  "version": "0.0.1",
+  "description": "React Hooks for setTimeout, setInterval, setImmediate, and requestAnimationFrame",
+  "main": "index.js",
+  "scripts": {
+    "test": "true"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/plougsgaard/react-timeout-hooks.git"
+  },
+  "keywords": [
+    "react",
+    "hooks",
+    "settimeout"
+  ],
+  "author": "Thomas Plougsgaard <npm@plougsgaard.dk> (https://github.com/plougsgaard)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/plougsgaard/react-timeout-hooks/issues"
+  },
+  "homepage": "https://github.com/plougsgaard/react-timeout-hooks#readme"
+}
